@@ -1,5 +1,7 @@
-Quiz App
+Quiz App -- 
 Just a fun project I made with React and AWS
+
+--------------------------------------------------------------------------------------------------------------------------------------------
 Quiz App is an interactive web application built with React and AWS services that allows users to take quizzes on various topics. It includes responsive design to enhance the user experience.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -15,6 +17,7 @@ Backend Services:
 --AWS Amplify (Hosting)
 --AWS Cognito (User Authentication)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Screenshots
 
